@@ -1,0 +1,23 @@
+{
+  "name": "zr-draw",
+  "version": "1.0.0",
+  "description": "Extract some methods in zrender and echarts, you can easily draw content when one of them exists",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/everygit/zr-draw.git"
+  },
+  "keywords": [
+    "zrender",
+    "echarts"
+  ],
+  "author": "austin.sun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/everygit/zr-draw/issues"
+  },
+  "homepage": "https://github.com/everygit/zr-draw#readme"
+}
